@@ -1,0 +1,183 @@
+<manifest alg="2" build="314" opt="true" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_interior.css" crc="4075513366" ref="event:opportunity:mining-pool:sign-up:about-us:contact-us"/>
+    <file name="master_main.css" crc="499402142" ref="event:opportunity:mining-pool:sign-up:index:about-us:contact-us"/>
+    <file name="event.css" crc="4186504594" ref="event"/>
+    <file name="opportunity.css" crc="3796115210" ref="opportunity"/>
+    <file name="mining-pool.css" crc="4215084514" ref="mining-pool"/>
+    <file name="sign-up.css" crc="4215760086" ref="sign-up"/>
+    <file name="index.css" crc="113288494" ref="index"/>
+    <file name="about-us.css" crc="4153513145" ref="about-us"/>
+    <file name="contact-us.css" crc="4077442153" ref="contact-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="bitcoin---bitclub-network.mp4" crc="186493804" mt="1498659152000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:tablet>index:tablet>about-us:tablet>mining-pool:tablet>opportunity:tablet>sign-up:tablet>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="museutils.js" crc="3865766194" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:tablet>index:tablet>about-us:tablet>mining-pool:tablet>opportunity:tablet>sign-up:tablet>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:index:mining-pool:sign-up:contact-us"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:tablet>index:tablet>about-us:tablet>mining-pool:tablet>opportunity:tablet>sign-up:tablet>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="museredirect.js" crc="236897542" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:mining-pool"/>
+    <file name="pie.js" crc="3827607177" ref="index:sign-up:contact-us"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:mining-pool"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:mining-pool"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:mining-pool"/>
+    <file name="form_check.php" crc="4257733307" ref="sign-up"/>
+    <file name="form_throttle.php" crc="3966014863" ref="sign-up"/>
+    <file name="form-u1314.php" crc="137095993" ref="sign-up"/>
+  </folder>
+  <folder name="images">
+    <file name="main-favicon.ico" crc="481506712" ref="phone>index"/>
+    <file name="bit-club-logo.png" crc="183284979" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="footerbit.png" crc="4152234581" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us:index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u1246-4.png" crc="3995402822" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="u1215-4.png" crc="361884424" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="u1232-4.png" crc="48018959" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="u1238-4.png" crc="281029508" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="u1224-4.png" crc="3816166721" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="u1254-4.png" crc="3981421375" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="u1209-4.png" crc="4235892310" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+    <file name="interior-favicon.ico" crc="4033475995" ref="phone>about-us"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u243.png" crc="81357482" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u243-r.png" crc="142452081" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u253.png" crc="3897980320" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u253-r.png" crc="528227592" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u233.png" crc="3976263131" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u233-r.png" crc="305723578" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u211.png" crc="3910174227" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u211-r.png" crc="382769913" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u248.png" crc="35380872" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u248-r.png" crc="3882420679" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u219.png" crc="4095748089" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u219-r.png" crc="4100264568" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="slide1.jpg" crc="3894255035" ref="index"/>
+    <file name="u1489-4.png" crc="73206947" ref="index"/>
+    <file name="u459-4.png" crc="4247942726" ref="index"/>
+    <file name="u461-7.png" crc="3887217695" ref="index"/>
+    <file name="u753.png" crc="163391104" ref="index"/>
+    <file name="u753-r.png" crc="163391104" ref="index"/>
+    <file name="stijn-te-strake-254879.jpg" crc="4162405547" ref="index"/>
+    <file name="u394-4.png" crc="338526518" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u408-4.png" crc="3968436963" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u379-4.png" crc="3781430483" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u416-4.png" crc="2216552" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u401-4.png" crc="231728544" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u388-4.png" crc="3810412871" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u115-4.png" crc="407952648" ref="index:about-us:mining-pool:opportunity:sign-up:contact-us:event"/>
+    <file name="u762-4.png" crc="4050275219" ref="about-us"/>
+    <file name="hire.png" crc="3935269751" ref="about-us"/>
+    <file name="u501-25.png" crc="3927509097" ref="about-us"/>
+    <file name="minerman.jpg" crc="4188752440" ref="about-us"/>
+    <file name="u516-19.png" crc="454255988" ref="about-us"/>
+    <file name="u519-37.png" crc="242702362" ref="about-us"/>
+    <file name="bitcoinicon225.png" crc="140455689" ref="about-us"/>
+    <file name="u764-4.png" crc="4180715621" ref="mining-pool"/>
+    <file name="u528-22.png" crc="60083118" ref="mining-pool"/>
+    <file name="s13.jpg" crc="4249219300" ref="mining-pool"/>
+    <file name="bitmine1.jpg" crc="178498525" ref="mining-pool"/>
+    <file name="s12.jpg" crc="4277667891" ref="mining-pool"/>
+    <file name="u536-4.png" crc="4218121355" ref="mining-pool"/>
+    <file name="u1820-4.png" crc="4218121355" ref="mining-pool"/>
+    <file name="u1829-4.png" crc="4218121355" ref="mining-pool"/>
+    <file name="loading.gif" crc="3815509949" ref="mining-pool"/>
+    <file name="11.jpg" crc="4082795773" ref="mining-pool"/>
+    <file name="12.jpg" crc="108442450" ref="mining-pool"/>
+    <file name="13.jpg" crc="3800322717" ref="mining-pool"/>
+    <file name="14.jpg" crc="335998038" ref="mining-pool"/>
+    <file name="u636-4.png" crc="509450803" ref="mining-pool"/>
+    <file name="u1861-4.png" crc="509450803" ref="mining-pool"/>
+    <file name="u1870-4.png" crc="509450803" ref="mining-pool"/>
+    <file name="u1879-4.png" crc="509450803" ref="mining-pool"/>
+    <file name="u660-14.png" crc="3779930388" ref="mining-pool"/>
+    <file name="u661-4.png" crc="3940850888" ref="mining-pool"/>
+    <file name="u665-4.png" crc="516291816" ref="mining-pool"/>
+    <file name="bitclubsoftware.jpg" crc="4005579870" ref="mining-pool"/>
+    <file name="u673-11.png" crc="390419431" ref="mining-pool"/>
+    <file name="u675-7.png" crc="3966128722" ref="mining-pool"/>
+    <file name="u677-4.png" crc="4033603698" ref="mining-pool"/>
+    <file name="piebcn1.jpg" crc="4096448944" ref="mining-pool"/>
+    <file name="bcbcn.jpg" crc="287597988" ref="mining-pool"/>
+    <file name="rank2.jpg" crc="3975284479" ref="mining-pool"/>
+    <file name="u704-4.png" crc="325332894" ref="mining-pool"/>
+    <file name="12121212.jpg" crc="4042154795" ref="mining-pool"/>
+    <file name="u706-22.png" crc="4123530406" ref="mining-pool"/>
+    <file name="u766-4.png" crc="4187939306" ref="opportunity"/>
+    <file name="u708-18.png" crc="3765995491" ref="opportunity"/>
+    <file name="bitclubminers.jpg" crc="4232821996" ref="opportunity"/>
+    <file name="u718-10.png" crc="4007910316" ref="opportunity"/>
+    <file name="u719-4.png" crc="501592935" ref="opportunity"/>
+    <file name="miningsolution.jpg" crc="4245207699" ref="opportunity"/>
+    <file name="u726-23.png" crc="257870827" ref="opportunity"/>
+    <file name="u728-16.png" crc="4180418491" ref="opportunity"/>
+    <file name="u730-9.png" crc="3818593586" ref="opportunity"/>
+    <file name="btctiming.jpg" crc="472306824" ref="opportunity"/>
+    <file name="u738-4.png" crc="4112766766" ref="opportunity"/>
+    <file name="u737-6.png" crc="4139398185" ref="opportunity"/>
+    <file name="u1353-4.png" crc="4169571448" ref="sign-up"/>
+    <file name="u1272-4.png" crc="4092174411" ref="sign-up"/>
+    <file name="u1274-5.png" crc="3909936423" ref="sign-up"/>
+    <file name="u1344.png" crc="4209602177" ref="sign-up"/>
+    <file name="u1344-ferr.png" crc="211349206" ref="sign-up"/>
+    <file name="u1341.png" crc="3812355237" ref="sign-up"/>
+    <file name="u1341-ferr.png" crc="4104060081" ref="sign-up"/>
+    <file name="u1315-17.png" crc="3860319823" ref="sign-up"/>
+    <file name="u1315-17-r.png" crc="378318051" ref="sign-up"/>
+    <file name="u1315-17-m.png" crc="4055779750" ref="sign-up"/>
+    <file name="u1315-17-fs.png" crc="499416311" ref="sign-up"/>
+    <file name="u1467-4.png" crc="4072649634" ref="contact-us"/>
+    <file name="u1465-4.png" crc="517172861" ref="contact-us"/>
+    <file name="u1356-17.png" crc="57046555" ref="contact-us"/>
+    <file name="u1356-17-r.png" crc="216467548" ref="contact-us"/>
+    <file name="u1356-17-m.png" crc="3811393686" ref="contact-us"/>
+    <file name="u1356-17-fs.png" crc="3758945303" ref="contact-us"/>
+    <file name="captcha.png" crc="3972111057" ref="contact-us"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4007307840" ref="tablet>index"/>
+      <file name="about-us.css" crc="4007307840" ref="tablet>about-us"/>
+      <file name="mining-pool.css" crc="409528372" ref="tablet>mining-pool"/>
+      <file name="opportunity.css" crc="409528372" ref="tablet>opportunity"/>
+      <file name="sign-up.css" crc="409528372" ref="tablet>sign-up"/>
+      <file name="contact-us.css" crc="409528372" ref="tablet>contact-us"/>
+    </folder>
+    <file name="index.html" crc="224695924" mt="1501537522097" redirect="false"/>
+    <file name="about-us.html" crc="504148712" mt="1501537522100" redirect="false"/>
+    <file name="mining-pool.html" crc="3970732327" mt="1501537522104" redirect="false"/>
+    <file name="opportunity.html" crc="3758273501" mt="1501537522107" redirect="false"/>
+    <file name="sign-up.html" crc="4277570801" mt="1501537522110" redirect="false"/>
+    <file name="contact-us.html" crc="396579548" mt="1501537522113" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_main.css" crc="4032902647" ref="phone>index:phone>about-us:phone>mining-pool:phone>opportunity:phone>sign-up:phone>contact-us"/>
+      <file name="index.css" crc="4280082158" ref="phone>index"/>
+      <file name="about-us.css" crc="4000753258" ref="phone>about-us"/>
+      <file name="mining-pool.css" crc="507953503" ref="phone>mining-pool"/>
+      <file name="opportunity.css" crc="507953503" ref="phone>opportunity"/>
+      <file name="sign-up.css" crc="507953503" ref="phone>sign-up"/>
+      <file name="contact-us.css" crc="507953503" ref="phone>contact-us"/>
+    </folder>
+    <file name="index.html" crc="61802529" mt="1501692018617" redirect="true"/>
+    <file name="about-us.html" crc="485973738" mt="1501692018632" redirect="true"/>
+    <file name="mining-pool.html" crc="3936259718" mt="1501692018634" redirect="true"/>
+    <file name="opportunity.html" crc="295301872" mt="1501692018637" redirect="true"/>
+    <file name="sign-up.html" crc="414933873" mt="1501692018639" redirect="true"/>
+    <file name="contact-us.html" crc="4146272372" mt="1501692018641" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="111888718" mt="1501775849826" redirect="true"/>
+  <file name="about-us.html" crc="510925483" mt="1501775849864" redirect="true"/>
+  <file name="mining-pool.html" crc="4140608907" mt="1501775849867" redirect="true"/>
+  <file name="opportunity.html" crc="4179312947" mt="1501775849876" redirect="true"/>
+  <file name="sign-up.html" crc="3774713215" mt="1501775849878" redirect="true"/>
+  <file name="contact-us.html" crc="291155272" mt="1501775849886" redirect="true"/>
+  <file name="event.html" crc="4140825548" mt="1501775849889" redirect="true"/>
+</manifest>
